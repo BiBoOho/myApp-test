@@ -9,3 +9,5 @@ my app var 03
 my app var 03
 
 my app var 03
+
+my test new 06
